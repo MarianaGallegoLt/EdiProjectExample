@@ -1,0 +1,10 @@
+.buttons {
+  margin-top: 150px;
+}
+
+.button {
+    margin-top: 20px;
+    padding: 25px;
+    width: 300px;
+    font-size: 22px;
+}
